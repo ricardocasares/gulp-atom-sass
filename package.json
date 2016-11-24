@@ -1,0 +1,18 @@
+{
+  "name": "gulp-atom-sass",
+  "version": "1.0.0",
+  "description": "Atom for compiling SASS, CSS prefixing and writing sourcemaps",
+  "main": "index.js",
+  "author": "Ricardo Casares",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardocasares/gulp-atom-sass.git"
+  },
+  "bugs": "https://github.com/ricardocasares/gulp-atom-sass/issues",
+  "dependencies": {
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0"
+  }
+}
