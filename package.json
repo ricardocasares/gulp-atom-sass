@@ -12,7 +12,7 @@
   "bugs": "https://github.com/ricardocasares/gulp-atom-sass/issues",
   "dependencies": {
     "gulp-autoprefixer": "^3.1.1",
-    "gulp-sass": "^2.3.2",
+    "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.2.0"
   }
 }
